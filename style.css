@@ -1,0 +1,36 @@
+body
+{
+display:flex;/*layout flexivel*/
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+margin:0;
+background-color: #282c34;/*plano de fundo */
+color:white;/*cor de Texto*/
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+h1
+{
+font-size: 50px;
+margin-bottom: 20px;
+}
+
+p
+{
+font-size: 1.5em;
+margin-bottom: 40px;
+}
+
+button
+{
+    padding: 20px 45px;
+    font-size: 20px;
+    color: #282c34;
+    background-color: #61dafb;
+    border: none;
+    border-radius: 80px;
+
+}
